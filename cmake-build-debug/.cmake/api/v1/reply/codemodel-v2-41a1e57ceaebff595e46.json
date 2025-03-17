@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Mpointer",
+					"jsonFile" : "directory-Mpointer-Debug-241d494114186af60d3e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Mpointer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "MemoryManager",
+					"jsonFile" : "directory-MemoryManager-Debug-2173b92505435a8ba848.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "MemoryManager",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProyectoMpointers"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "MPointer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "MemoryManager",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "MPointer::@ad47e3d4c07081cd4c7b",
+					"jsonFile" : "target-MPointer-Debug-d06a95644529da9ff078.json",
+					"name" : "MPointer",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MemoryManager::@bd2506d59ece17ce368a",
+					"jsonFile" : "target-MemoryManager-Debug-6e1e89a90ba92026a210.json",
+					"name" : "MemoryManager",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/50685/Desktop/Proyecto 1 Datos 2/Proyecto-Mpointers-/cmake-build-debug",
+		"source" : "C:/Users/50685/Desktop/Proyecto 1 Datos 2/Proyecto-Mpointers-"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

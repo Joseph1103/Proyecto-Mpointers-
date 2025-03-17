@@ -1,0 +1,10 @@
+# ninja log v6
+4	86	7639514772533550	Mpointer/CMakeFiles/MPointer.dir/src/MPointer.cpp.obj	cbf28ca2ac5455f1
+15	98	7639514772642537	MemoryManager/CMakeFiles/MemoryManager.dir/src/GarbageCollector.cpp.obj	d566d4fa4207876d
+21	108	7639514772703315	MemoryManager/CMakeFiles/MemoryManager.dir/src/MemoryManager.cpp.obj	adeb510d8f6fed9
+26	107	7639514772758358	MemoryManager/CMakeFiles/MemoryManager.dir/src/main.cpp.obj	afb46f2ffa0ae206
+10	518	7639514772587187	Mpointer/CMakeFiles/MPointer.dir/src/main.cpp.obj	7931e296c0bca8f0
+23	380	7639515993693402	build.ninja	729778dc588de749
+32	204	7639515994819399	Mpointer/MPointer.exe	7c9afd562007957
+27	478	7639515994766653	MemoryManager/CMakeFiles/MemoryManager.dir/src/main.cpp.obj	afb46f2ffa0ae206
+478	638	7639515999285834	MemoryManager/MemoryManager.exe	1b11fd7aedc433b9
