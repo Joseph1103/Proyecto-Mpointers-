@@ -1,9 +1,13 @@
-cmake_minimum_required(VERSION 3.16)
+cmake_minimum_required(VERSION 3.10)
 project(MPointer)
 
 set(CMAKE_CXX_STANDARD 17)
 
-# Agregar todos los archivos dentro de src/
-file(GLOB SOURCES src/*.cpp)
+# Agregar archivos fuente
+add_executable(MPointer
+        src/main.cpp
+        src/MPointer.cpp
+)
 
-add_executable(MPointer ${SOURCES})
+# Incluir json.hpp manualmente
+include_directories(${CMAKE_SOURCE_DIR}/MPointer/include)
