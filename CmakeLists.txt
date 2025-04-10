@@ -3,3 +3,4 @@ project(ProyectoMpointers)
 
 add_subdirectory(Mpointer)
 add_subdirectory(MemoryManager)
+include_directories("C:/Users/sebas/Documents/GitHub/Proyecto-Mpointers-/Mpointer/include")

@@ -1,0 +1,8 @@
+C:/Users/sebas/Documents/GitHub/Proyecto-Mpointers-/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/sebas/Documents/GitHub/Proyecto-Mpointers-/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/sebas/Documents/GitHub/Proyecto-Mpointers-/cmake-build-debug-mingw/Mpointer/CMakeFiles/MPointer.dir
+C:/Users/sebas/Documents/GitHub/Proyecto-Mpointers-/cmake-build-debug-mingw/Mpointer/CMakeFiles/edit_cache.dir
+C:/Users/sebas/Documents/GitHub/Proyecto-Mpointers-/cmake-build-debug-mingw/Mpointer/CMakeFiles/rebuild_cache.dir
+C:/Users/sebas/Documents/GitHub/Proyecto-Mpointers-/cmake-build-debug-mingw/MemoryManager/CMakeFiles/MemoryManager.dir
+C:/Users/sebas/Documents/GitHub/Proyecto-Mpointers-/cmake-build-debug-mingw/MemoryManager/CMakeFiles/edit_cache.dir
+C:/Users/sebas/Documents/GitHub/Proyecto-Mpointers-/cmake-build-debug-mingw/MemoryManager/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,19 @@
+# ninja log v6
+6	1944	7642291396698797	Mpointer/CMakeFiles/MPointer.dir/src/main.cpp.obj	503c7403a8abdc27
+16	2005	7642291396805978	Mpointer/CMakeFiles/MPointer.dir/src/server.cpp.obj	33e61de2221e2ee0
+11	5297	7642291396752966	Mpointer/CMakeFiles/MPointer.dir/src/MPointer.cpp.obj	49def7feae1f73a9
+5297	5503	7642291449619459	Mpointer/MPointer.exe	eba41a1d6c6a1eda
+8	1534	7642292145429860	Mpointer/CMakeFiles/MPointer.dir/src/main.cpp.obj	503c7403a8abdc27
+1534	1734	7642292160691906	Mpointer/MPointer.exe	eba41a1d6c6a1eda
+9	1548	7642293422563544	Mpointer/CMakeFiles/MPointer.dir/src/main.cpp.obj	503c7403a8abdc27
+1549	1749	7642293437963558	Mpointer/MPointer.exe	eba41a1d6c6a1eda
+10	1536	7642297510564414	Mpointer/CMakeFiles/MPointer.dir/src/main.cpp.obj	503c7403a8abdc27
+1537	1745	7642297525834545	Mpointer/MPointer.exe	eba41a1d6c6a1eda
+10	5308	7642303196648433	Mpointer/CMakeFiles/MPointer.dir/src/MPointer.cpp.obj	49def7feae1f73a9
+12	5236	7642303352260826	Mpointer/CMakeFiles/MPointer.dir/src/MPointer.cpp.obj	49def7feae1f73a9
+5236	5449	7642303404502609	Mpointer/MPointer.exe	eba41a1d6c6a1eda
+9	5051	7642305555803604	Mpointer/CMakeFiles/MPointer.dir/src/MPointer.cpp.obj	49def7feae1f73a9
+10	4882	7642306338319488	Mpointer/CMakeFiles/MPointer.dir/src/main.cpp.obj	503c7403a8abdc27
+9	1912	7642307754330845	Mpointer/CMakeFiles/MPointer.dir/src/main.cpp.obj	503c7403a8abdc27
+14	5567	7642307754380910	Mpointer/CMakeFiles/MPointer.dir/src/MPointer.cpp.obj	49def7feae1f73a9
+5567	5810	7642307809902329	Mpointer/MPointer.exe	eba41a1d6c6a1eda
